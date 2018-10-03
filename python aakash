@@ -1,0 +1,7 @@
+def calsimpleinterest(p,n,r):
+    si=(p*n*r)/100
+    print("principle=",p,"rate of interest=",r,"no.of year=",n)
+    print("simple interest=",si)
+    print("~"*30)
+calsimpleinterest(98,98,98)
+calsimpleinterest(98,98,98)
